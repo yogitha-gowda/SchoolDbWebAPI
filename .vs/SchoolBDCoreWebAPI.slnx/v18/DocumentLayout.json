@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\migrations\\20260330052731_adduserv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:migrations\\20260330052731_adduserv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\services\\schooldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:services\\schooldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\models\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\schoolbdcorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:schoolbdcorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|d:\\code\\visual studio\\schoolbdcorewebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C898EB4-E53F-8EF0-6840-E3114520ECFE}|SchoolDBCoreWebAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{87654321-4321-4321-4321-987654321cba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260330052731_AddUserV1.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Migrations\\20260330052731_AddUserV1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260330052731_AddUserV1.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Migrations\\20260330052731_AddUserV1.cs",
+              "RelativeToolTip": "Migrations\\20260330052731_AddUserV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:27:32.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:01:40.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolDAL.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Services\\SchoolDAL.cs",
+              "RelativeDocumentMoniker": "Services\\SchoolDAL.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Services\\SchoolDAL.cs",
+              "RelativeToolTip": "Services\\SchoolDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:25:37.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\DTOs.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\DTOs.cs",
+              "RelativeToolTip": "Models\\DTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:14:58.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:13:40.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchoolBDCoreWebAPI.http",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\SchoolBDCoreWebAPI.http",
+              "RelativeDocumentMoniker": "SchoolBDCoreWebAPI.http",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\SchoolBDCoreWebAPI.http",
+              "RelativeToolTip": "SchoolBDCoreWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-27T05:24:37.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T04:50:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T05:05:37.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordHasher.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\PasswordHasher.cs",
+              "RelativeToolTip": "Models\\PasswordHasher.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:07:52.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolDBContext.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\SchoolDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolDBContext.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\SchoolDBContext.cs",
+              "RelativeToolTip": "Models\\SchoolDBContext.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAE0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:20:54.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:14:39.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T04:51:01.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:45:12.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\SchoolBDCoreWebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:49:01.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

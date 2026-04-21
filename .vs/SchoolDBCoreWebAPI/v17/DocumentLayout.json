@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\services\\gradedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:services\\gradedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\services\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:services\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\migrations\\20260403100629_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:migrations\\20260403100629_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\teksystems\\.netprojects\\hackathon\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:00:07.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:55:21.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Services\\GradeDAL.cs",
+              "RelativeDocumentMoniker": "Services\\GradeDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Services\\GradeDAL.cs",
+              "RelativeToolTip": "Services\\GradeDAL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAEoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:34:33.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T09:44:52.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "Controllers\\GradeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T07:03:45.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Services\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "Services\\StudentDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Services\\StudentDAL.cs",
+              "RelativeToolTip": "Services\\StudentDAL.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:33:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:31:39.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:36:45.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Models\\SchoolDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolDBContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Models\\SchoolDBContext.cs",
+              "RelativeToolTip": "Models\\SchoolDBContext.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:35:49.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260403100629_InitialSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Migrations\\20260403100629_InitialSetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260403100629_InitialSetup.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Migrations\\20260403100629_InitialSetup.cs",
+              "RelativeToolTip": "Migrations\\20260403100629_InitialSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:06:30.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TekSystems\\.NETprojects\\Hackathon\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T09:55:55.709Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
